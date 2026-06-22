@@ -1,5 +1,7 @@
 # Rice Creek UAS high level flight controller (rc-flight)
 
+NOTICE: This project has moved to Codeberg.org <https://codeberg.org/NorthStarUAS>
+
 ## Welcome
 
 rc-flight is the high level flight controller for the Rice Creek UAS
